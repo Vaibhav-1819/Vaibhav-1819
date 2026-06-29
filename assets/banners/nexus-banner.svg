@@ -1,0 +1,66 @@
+<svg width="1280" height="640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Space+Grotesk:wght@500;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap');
+      .bg { fill: #09090B; }
+      .card { fill: #18181b; stroke: #27272a; stroke-width: 2; rx: 12; }
+      .accent { fill: #22C55E; }
+      .text-primary { fill: #F8FAFC; font-family: 'Space Grotesk', sans-serif; }
+      .text-secondary { fill: #A1A1AA; font-family: 'Inter', sans-serif; }
+      .text-mono { fill: #A1A1AA; font-family: 'JetBrains Mono', monospace; font-size: 14px; }
+      .chip { fill: rgba(34, 197, 94, 0.1); stroke: rgba(34, 197, 94, 0.2); stroke-width: 1; rx: 16; }
+      .chip-text { fill: #22C55E; font-family: 'Inter', sans-serif; font-size: 14px; font-weight: 500; }
+    </style>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#27272a" stroke-width="0.5" stroke-dasharray="2,2"/>
+    </pattern>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22C55E" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#09090B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="100%" height="100%" class="bg" />
+  <rect width="100%" height="100%" fill="url(#grid)" opacity="0.3" />
+  <rect width="100%" height="100%" fill="url(#glow)" />
+  
+  <g transform="translate(80, 80)">
+    <text x="0" y="50" class="text-primary" font-size="72" font-weight="700">Nexus</text>
+    <text x="0" y="90" class="text-secondary" font-size="24" font-weight="400">Real-Time Collaboration Platform</text>
+    
+    <g transform="translate(0, 130)">
+      <rect x="0" y="0" width="80" height="32" class="chip" />
+      <text x="40" y="21" class="chip-text" text-anchor="middle">React</text>
+      
+      <rect x="90" y="0" width="90" height="32" class="chip" />
+      <text x="135" y="21" class="chip-text" text-anchor="middle">LiveKit</text>
+
+      <rect x="190" y="0" width="110" height="32" class="chip" />
+      <text x="245" y="21" class="chip-text" text-anchor="middle">Socket.IO</text>
+    </g>
+  </g>
+
+  <g transform="translate(680, 160)">
+    <rect x="0" y="0" width="500" height="340" class="card" />
+    <line x1="0" y1="60" x2="500" y2="60" stroke="#27272a" stroke-width="2" />
+    <circle cx="30" cy="30" r="6" fill="#ef4444" opacity="0.5"/>
+    <circle cx="50" cy="30" r="6" fill="#eab308" opacity="0.5"/>
+    <circle cx="70" cy="30" r="6" fill="#22c55e" opacity="0.5"/>
+    <text x="250" y="35" class="text-secondary" font-size="14" text-anchor="middle">room-session.tsx</text>
+    
+    <g transform="translate(30, 90)">
+      <rect x="0" y="0" width="200" height="120" rx="8" fill="#09090B" stroke="#27272a" stroke-width="1"/>
+      <rect x="220" y="0" width="200" height="120" rx="8" fill="#09090B" stroke="#27272a" stroke-width="1"/>
+      <rect x="0" y="140" width="200" height="120" rx="8" fill="#09090B" stroke="#27272a" stroke-width="1"/>
+      <rect x="220" y="140" width="200" height="120" rx="8" fill="#09090B" stroke="#27272a" stroke-width="1"/>
+      
+      <circle cx="100" cy="50" r="24" fill="#18181b" stroke="#27272a" stroke-width="2"/>
+      <circle cx="320" cy="50" r="24" fill="#18181b" stroke="#27272a" stroke-width="2"/>
+      <circle cx="100" cy="190" r="24" fill="#18181b" stroke="#27272a" stroke-width="2"/>
+      <circle cx="320" cy="190" r="24" fill="#18181b" stroke="#27272a" stroke-width="2"/>
+      
+      <circle cx="180" cy="100" r="6" fill="#22C55E"/>
+      <circle cx="400" cy="100" r="6" fill="#ef4444"/>
+    </g>
+  </g>
+</svg>
