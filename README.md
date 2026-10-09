@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vaibhav-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-080B10?style=for-the-badge&logo=vercel&logoColor=00E5FF&borderColor=16202E" alt="Portfolio" /></a>
+  <a href="https://vaibhavbharathula.tech/"><img src="https://img.shields.io/badge/Portfolio-080B10?style=for-the-badge&logo=vercel&logoColor=00E5FF&borderColor=16202E" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://linkedin.com/in/vaibhav-bharathula"><img src="https://img.shields.io/badge/LinkedIn-080B10?style=for-the-badge&logo=linkedin&logoColor=00E5FF&borderColor=16202E" alt="LinkedIn" /></a>
   &nbsp;
@@ -13,7 +13,7 @@
 </p>
 
 ```text
-Identity: Ram  •  IT Undergrad @ IARE Hyderabad  •  Focus: Systems, Applied AI & Automation
+Identity: Vaibhav Bharathula  •  IT Undergrad @ IARE Hyderabad  •  Focus: Systems, Applied AI & Automation
 ```
 
 ---
@@ -60,7 +60,7 @@ A curated breakdown of tools and frameworks I work with, categorized by architec
 
 Key projects that demonstrate end-to-end architecture, real problem-solving, and practical technology application.
 
-#### 🏏 [CricSphere — Cricket Intelligence & Analytics Engine](https://github.com/Vaibhav-1819/CricSphere-Version1)
+#### 🏏 [CricSphere — Cricket Intelligence & Analytics Engine](https://cricsphere-version3.vercel.app/)
 > **AI-Powered Match Analytics & Historical Query Engine**
 > 
 > * **The Challenge:** Ingesting and querying extensive ball-by-ball match histories without incurring sluggish relational database query latencies on large aggregations.
@@ -68,11 +68,11 @@ Key projects that demonstrate end-to-end architecture, real problem-solving, and
 > * **Frontend:** Developed a reactive **React** interface with interactive simulation analytics and match telemetry.
 > 
 > `DuckDB` • `Node.js` • `Express` • `React` • `RapidAPI Caching` • `Machine Learning`  
-> [View Codebase →](https://github.com/Vaibhav-1819/CricSphere-Version1) &nbsp;|&nbsp; [Live Application →](https://cricsphere-version1.vercel.app/)
+> [Visit Application →](https://cricsphere-version3.vercel.app/)
 
 ---
 
-#### 🌐 [Nexus — Real-Time Collaboration & Video Suite](https://github.com/Vaibhav-1819/Nexus-Version1)
+#### 🌐 Nexus — Real-Time Collaboration & Video Suite
 > **Low-Latency Multi-Party Video & State Synchronization**
 > 
 > * **The Challenge:** Traditional peer-to-peer WebRTC mesh calls suffer exponential upload bandwidth and CPU degradation as participant counts grow.
@@ -80,11 +80,11 @@ Key projects that demonstrate end-to-end architecture, real problem-solving, and
 > * **State Management:** Orchestrated low-latency bi-directional state updates and presence using **Socket.IO**, with **Firebase Auth** managing secure sessions.
 > 
 > `React` • `LiveKit SFU` • `Socket.IO` • `WebRTC` • `Firebase Auth`  
-> [View Codebase →](https://github.com/Vaibhav-1819/Nexus-Version1)
+> 🚧 *Currently being developed*
 
 ---
 
-#### 🍃 [AetherAI — Environmental Forecasting Engine](https://github.com/Vaibhav-1819)
+#### 🍃 [AetherAI — Environmental Forecasting Engine](https://github.com/Vaibhav-1819/AetherAI)
 > **Predictive Machine Learning Regression & Natural Language Climate Insights**
 > 
 > * **The Challenge:** Raw numerical air quality metrics are difficult for general users to contextualize into proactive health choices.
@@ -92,7 +92,7 @@ Key projects that demonstrate end-to-end architecture, real problem-solving, and
 > * **AI Synthesis:** Pipelined model outputs into the **Gemini API** to automatically generate actionable, natural-language health advisories and environmental summaries.
 > 
 > `FastAPI` • `Python` • `XGBoost` • `Gemini API` • `React`  
-> [View Codebase →](https://github.com/Vaibhav-1819)
+> [View Codebase →](https://github.com/Vaibhav-1819/AetherAI)
 
 ---
 
@@ -125,7 +125,7 @@ Rather than chasing superficial trends, I maintain an active log of technical ar
 If you'd like to discuss system architectures, collaborate on ambitious software projects, or explore technology opportunities:
 
 <p align="center">
-  <a href="https://vaibhav-portfolio-v2.vercel.app/">
+  <a href="https://vaibhavbharathula.tech/">
     <img src="https://img.shields.io/badge/Portfolio-vaibhav--portfolio-080B10?style=flat-square&logo=vercel&logoColor=00E5FF" alt="Portfolio" />
   </a>
   &nbsp;
