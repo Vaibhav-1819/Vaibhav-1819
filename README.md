@@ -1,135 +1,147 @@
-# Developer Workspace
-*Building intelligent software from data to deployment.*
+<p align="center">
+  <img src="assets/header.svg" alt="Ram — Software & Applied AI Laboratory" width="100%" />
+</p>
 
----
-
-## Workspace Status
+<p align="center">
+  <a href="https://vaibhav-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-080B10?style=for-the-badge&logo=vercel&logoColor=00E5FF&borderColor=16202E" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/vaibhav-bharathula"><img src="https://img.shields.io/badge/LinkedIn-080B10?style=for-the-badge&logo=linkedin&logoColor=00E5FF&borderColor=16202E" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:bharathulavaibhav@gmail.com"><img src="https://img.shields.io/badge/Email-080B10?style=for-the-badge&logo=gmail&logoColor=00E5FF&borderColor=16202E" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/Vaibhav-1819"><img src="https://img.shields.io/badge/GitHub-080B10?style=for-the-badge&logo=github&logoColor=00E5FF&borderColor=16202E" alt="GitHub" /></a>
+</p>
 
 ```text
-Status        ONLINE
-Location      Hyderabad, India
-Current Build Nexus
-Focus         Full Stack Engineering, Machine Learning, Backend Systems
-Looking For   Software Engineering Internship 2027
+Identity: Ram  •  IT Undergrad @ IARE Hyderabad  •  Focus: Systems, Applied AI & Automation
 ```
 
 ---
 
-## Featured Builds
+### 01 // About & Focus
 
-### CricSphere
-![CricSphere](assets/banners/cricsphere-banner.svg)
-<p><strong>AI-powered Cricket Intelligence Platform</strong></p>
-<p>Built a full-stack cricket platform with live match data integration and AI-ML powered analytics. Engineered the backend using Node.js/Express, integrated RapidAPI with robust caching, and developed a smooth React frontend.</p>
+I am an Information Technology undergraduate at the **Institute of Aeronautical Engineering (IARE), Hyderabad**. My work centers on building practical software systems: performant backend services, applied machine learning integrations that solve real domain problems, and automated workflow pipelines that eliminate operational friction.
 
-* **DuckDB** • **Spring Boot** • **Machine Learning**
+Rather than treating technologies as isolated checkboxes, I focus on understanding data flow from ingestion to inference, handling latency trade-offs, and shipping software with clean architecture and solid user interfaces.
 
-[<img src="assets/icons/repo.svg" width="16" align="center"/> Repository](https://github.com/Vaibhav-1819/CricSphere-Version1) &nbsp; [<img src="assets/icons/demo.svg" width="16" align="center"/> Live Demo](https://cricsphere-version1.vercel.app/)
-
----
-
-### Nexus
-![Nexus](assets/banners/nexus-banner.svg)
-<p><strong>Real-Time Collaboration Platform</strong></p>
-<p>Migrated a WebRTC mesh architecture toward a Selective Forwarding Unit (SFU) model. Integrated Firebase for auth, LiveKit for video routing, and Socket.IO for real-time state management.</p>
-
-* **React** • **LiveKit** • **Socket.IO** • **Firebase**
-
-[<img src="assets/icons/repo.svg" width="16" align="center"/> Repository](https://github.com/Vaibhav-1819/Nexus-Version1)
+* **Engineering Mindset:** Prioritizing working software, deterministic state, and measurable performance over hype.
+* **Core Domains:** Full-stack web applications, in-process analytical databases, applied AI toolchains, and event automation.
+* **Objective:** Continuously expanding technical rigor through ambitious personal builds and preparing for software engineering roles.
 
 ---
 
-### AetherAI
-![AetherAI](assets/banners/aetherai-banner.svg)
-<p><strong>Environmental Intelligence Platform</strong></p>
-<p>Engineered a full-stack system serving an XGBoost machine learning model for real-time air quality forecasting. Integrated Gemini API for natural language environmental insights.</p>
+### 02 // Technical Toolbox
 
-* **FastAPI** • **XGBoost** • **Gemini** • **React**
+A curated breakdown of tools and frameworks I work with, categorized by architectural layer.
 
-[<img src="assets/icons/repo.svg" width="16" align="center"/> Repository](https://github.com/Vaibhav-1819)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,fastapi,sqlite,duckdb,n8n&theme=dark" alt="Technical Skills Icons" />
+  </a>
+</p>
 
----
+#### Core Technologies Explored
 
-## Workspace Modules
+* **Programming Languages:** Python, Java, JavaScript (ES6+)
+* **Frontend Engineering:** React, Next.js, HTML5, CSS3, Modern UI Tooling
+* **Backend & APIs:** FastAPI, Node.js, Express.js, RESTful Architecture
+* **Databases & Analytical Storage:** SQLite, DuckDB (In-Memory OLAP), PostgreSQL / MySQL fundamentals
+* **Applied AI & Automation:** Gemini API integration, n8n workflow orchestration, Webhooks & Pipeline Automation
 
-```text
-workspace@vaibhav:~$ ls -l modules/
+#### Currently Deepening & Learning
 
-[✔] CricSphere
-[✔] Nexus
-[✔] AetherAI
-[✔] Developer Workspace
-
-Next Module: Software Engineering Internship
-```
-
----
-
-## Engineering Stack
-
-**Frontend**<br/>
-React • HTML5 • CSS3 • Tailwind CSS
-
-**Backend**<br/>
-Node.js • Express.js • REST APIs • FastAPI
-
-**Machine Learning**<br/>
-Deep Learning • CNNs • Transfer Learning • TensorFlow • XGBoost
-
-**Databases**<br/>
-MySQL • Oracle SQL • Firebase • NoSQL • SQLite
-
-**Cloud & Tools**<br/>
-Git • OCI • AWS (Basics) • Docker (Basics)
+* Advanced distributed systems design & event streaming patterns
+* Low-latency API caching and in-process OLAP vectorization
+* LLM agentic tool use and evaluation pipelines
 
 ---
 
-## Engineering Highlights
+### 03 // Featured Builds
 
-| Metric | Context |
-|--------|---------|
-| **22,000+** | Matches Analyzed (CricSphere) |
-| **638K+** | Player Matchups Processed |
-| **11,000+** | Training Images (BrandRecognizer) |
-| **80%** | Model Accuracy (Transfer Learning) |
+Key projects that demonstrate end-to-end architecture, real problem-solving, and practical technology application.
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-1819&layout=compact&theme=transparent&hide_border=true&bg_color=09090B&title_color=F8FAFC&text_color=A1A1AA" alt="Top Languages" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-1819&theme=transparent&hide_border=true&background=09090B&ring=3B82F6&fire=3B82F6&currStreakLabel=A1A1AA&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=A1A1AA&dates=A1A1AA" alt="GitHub Streak" width="400"/>
-</div>
+#### 🏏 [CricSphere — Cricket Intelligence & Analytics Engine](https://github.com/Vaibhav-1819/CricSphere-Version1)
+> **AI-Powered Match Analytics & Historical Query Engine**
+> 
+> * **The Challenge:** Ingesting and querying extensive ball-by-ball match histories without incurring sluggish relational database query latencies on large aggregations.
+> * **The Architecture:** Integrated **DuckDB** as an embedded analytical query layer for millisecond analytical aggregations across hundreds of thousands of player matchup data points. Built the backend using **Node.js/Express** with an API caching layer over external cricket feeds.
+> * **Frontend:** Developed a reactive **React** interface with interactive simulation analytics and match telemetry.
+> 
+> `DuckDB` • `Node.js` • `Express` • `React` • `RapidAPI Caching` • `Machine Learning`  
+> [View Codebase →](https://github.com/Vaibhav-1819/CricSphere-Version1) &nbsp;|&nbsp; [Live Application →](https://cricsphere-version1.vercel.app/)
 
 ---
 
-## Current Learning
-
-- System Design
-- Distributed Systems
-- Machine Learning Engineering
-- Cloud Infrastructure
-- Data Structures & Algorithms
-
----
-
-## Engineering Philosophy
-
-I believe in building complete software systems rather than isolated components. From architecting scalable backend APIs and deploying machine learning models to crafting intuitive user interfaces, my focus is always on engineering cohesive, performant, and reliable products that solve real-world problems.
+#### 🌐 [Nexus — Real-Time Collaboration & Video Suite](https://github.com/Vaibhav-1819/Nexus-Version1)
+> **Low-Latency Multi-Party Video & State Synchronization**
+> 
+> * **The Challenge:** Traditional peer-to-peer WebRTC mesh calls suffer exponential upload bandwidth and CPU degradation as participant counts grow.
+> * **The Architecture:** Re-architected media distribution from a P2P mesh toward a **Selective Forwarding Unit (SFU)** model via **LiveKit**, drastically minimizing client egress bandwidth.
+> * **State Management:** Orchestrated low-latency bi-directional state updates and presence using **Socket.IO**, with **Firebase Auth** managing secure sessions.
+> 
+> `React` • `LiveKit SFU` • `Socket.IO` • `WebRTC` • `Firebase Auth`  
+> [View Codebase →](https://github.com/Vaibhav-1819/Nexus-Version1)
 
 ---
 
-## Connect
-
-[Portfolio](https://vaibhav-portfolio-v2.vercel.app/) • [LinkedIn](https://linkedin.com/in/vaibhav-bharathula) • [Email](mailto:bharathulavaibhav@gmail.com) • [GitHub](https://github.com/Vaibhav-1819)
+#### 🍃 [AetherAI — Environmental Forecasting Engine](https://github.com/Vaibhav-1819)
+> **Predictive Machine Learning Regression & Natural Language Climate Insights**
+> 
+> * **The Challenge:** Raw numerical air quality metrics are difficult for general users to contextualize into proactive health choices.
+> * **The Architecture:** Trained an **XGBoost** regression model served via a high-throughput **FastAPI** backend delivering sub-100ms inference times.
+> * **AI Synthesis:** Pipelined model outputs into the **Gemini API** to automatically generate actionable, natural-language health advisories and environmental summaries.
+> 
+> `FastAPI` • `Python` • `XGBoost` • `Gemini API` • `React`  
+> [View Codebase →](https://github.com/Vaibhav-1819)
 
 ---
 
-```text
-workspace@vaibhav:~$ exit
+### 04 // Current Exploration & Engineering Journey
 
-Developer Workspace v3
-Status: ONLINE
-Designed & Engineered by Bharathula Venkata Vaibhav Ram
-```
+Rather than chasing superficial trends, I maintain an active log of technical areas I am currently experimenting with:
+
+* **In-Memory Analytical Querying:** Exploring internal columnar storage mechanics, vectorized query execution, and DuckDB analytical pipelines for data-intensive web apps.
+* **Workflow Automation & Agentic Pipelines:** Constructing multi-step automation sequences using **n8n** and custom Python micro-services to automate task flows and bridge LLM APIs with real-world databases.
+* **Modern Next.js & Server Components:** Implementing streaming architectures, server actions, and edge rendering for high-performance developer tooling.
+
+---
+
+### 05 // Activity & Telemetry
+
+<p align="center">
+  <a href="https://github.com/Vaibhav-1819">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-1819&layout=compact&theme=transparent&hide_border=true&bg_color=080B10&title_color=00E5FF&text_color=94A3B8" alt="Top Languages" width="380" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Vaibhav-1819">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-1819&theme=transparent&hide_border=true&background=080B10&ring=00E5FF&fire=00E5FF&currStreakLabel=94A3B8&currStreakNum=00E5FF&sideNums=F8FAFC&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" width="380" />
+  </a>
+</p>
+
+---
+
+### 06 // Transmission & Connect
+
+If you'd like to discuss system architectures, collaborate on ambitious software projects, or explore technology opportunities:
+
+<p align="center">
+  <a href="https://vaibhav-portfolio-v2.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-vaibhav--portfolio-080B10?style=flat-square&logo=vercel&logoColor=00E5FF" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/vaibhav-bharathula">
+    <img src="https://img.shields.io/badge/LinkedIn-vaibhav--bharathula-080B10?style=flat-square&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:bharathulavaibhav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bharathulavaibhav%40gmail.com-080B10?style=flat-square&logo=gmail&logoColor=00E5FF" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Vaibhav-1819">
+    <img src="https://img.shields.io/badge/GitHub-Vaibhav--1819-080B10?style=flat-square&logo=github&logoColor=00E5FF" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Engineered by <b>Ram</b> • Built for clarity, performance, and substance.</sub>
+</p>
